@@ -3,5 +3,7 @@
 - - -
 Text nach Strich
 zweite Zeile  
-dritte ohne Leerzeichen am Schluß
+dritte  
+2 Leerzeichen am Schluß  
 vierte
+- - -  
